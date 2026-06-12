@@ -219,6 +219,5 @@ H₁ (Alternate Hypothesis): There IS a significant difference in average fare
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=100&section=footer" width="100%"/>
 
-*Built with ❤️ using Python & NYC Open Data*
 
 </div>
